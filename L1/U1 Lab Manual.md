@@ -22,11 +22,11 @@ implementation that would satisfy Product Inc.?
 
 
 ## TASK – 2: AGILE & SCRUM 
-Your team has been delegated with the task of developing an e
+You have been delegated with the task of developing an e
 commerce website. Your team has to follow Agile methodologies to 
 finish and launch the initial version of the website. As a part of the 
 Scrum activities, Sprint Pre Planning and Planning meetings are held.  
-Your team’s lab task is to identify the requirements of the stakeholders 
+Your lab task is to identify the requirements of the stakeholders 
 and prioritize them. Scope for three 4 week Sprints must be decided. 
 User stories as a product backlog must be prepared. Roadmap must 
 be prepared. The features of the website to be worked on must be 
@@ -50,13 +50,14 @@ Student Registration System.
 
 
 ## TASK – 4: REQUIREMENTS ENGINEERING 
-Your team is developing an application that helps ease the lives of 
+You are developing an application that helps ease the lives of 
 University students. Some of the problems you could tackle are – 
 Acquiring quality study materials, Time management, Health & 
 Lifestyle, Budgets, Career guidance etc.  
-Each team’s lab task is to conduct a feasibility study for the 
+Each lab task is to conduct a feasibility study for the 
 problems they want to solve, elicit and analyze the requirements 
 (make use of the Fish bone diagram), prepare a SRS using the 
 template given in the lecture slides and eventually incorporate 
 changes to the requirements by following the Requirement Change 
-Process.  
+Process. You can make use of the Use Case diagram and the 
+Requirements Traceability Matrix for brownie points!  
