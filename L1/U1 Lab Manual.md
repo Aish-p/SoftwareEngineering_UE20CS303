@@ -1,6 +1,6 @@
-SOFTWARE ENGINEERING LAB TASKS 
+# SOFTWARE ENGINEERING LAB TASKS 
 
-TASK – 1: AGILE & SCRUM 
+## TASK – 1: AGILE & SCRUM 
 With regards to the case study, answer the following questions: 
 1) Answer the following questions based on your understanding in 
 not more than 10 sentences 
@@ -21,7 +21,7 @@ Product Inc. that you think is a challenge for successful scrum
 implementation that would satisfy Product Inc.? 
 
 
-TASK – 2: AGILE & SCRUM 
+## TASK – 2: AGILE & SCRUM 
 Your team has been delegated with the task of developing an e
 commerce website. Your team has to follow Agile methodologies to 
 finish and launch the initial version of the website. As a part of the 
@@ -37,7 +37,7 @@ document you submit. You can make use of timelines or similar
 diagrammatic elements. 
 
 
-TASK – 3: REQUIREMENTS ENGINEERING 
+## TASK – 3: REQUIREMENTS ENGINEERING 
 The university student registration system is unable to cope with the 
 high volume of telephone calls received at registration time. An 
 Online Student Registration System needs to be developed. Perform 
@@ -49,7 +49,7 @@ Fish bone diagram. Prepare a Use Case diagram for the Online
 Student Registration System.  
 
 
-TASK – 4: REQUIREMENTS ENGINEERING 
+## TASK – 4: REQUIREMENTS ENGINEERING 
 Your team is developing an application that helps ease the lives of 
 University students. Some of the problems you could tackle are – 
 Acquiring quality study materials, Time management, Health & 
